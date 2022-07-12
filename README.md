@@ -4,6 +4,10 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluştur
 
 ![](https://github.com/umithavare/kodluyoruzilkrepo/blob/main/images/Screenshot_2022-07-11_19-56-45.png)
 
+## Patika.dev
+
+[patika.dev linkim](https://app.patika.dev/umith)
+
 ## Installation
 
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
